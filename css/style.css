@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,900&display=swap');
+
+.timeline{
+    text-align: center;
+    line-height: 25px;
+    color: white;
+}
+#timeline-heading{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18.72px;
+    line-height: 29px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+ul { display: inline-block; 
+    text-align: left; 
+    list-style-position: outside;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 350px;
+    margin-right: 350px;
+
+}
+li{
+    /* line-height: 50px; */
+    padding-bottom: 15px;
+}
+
+blockquote{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    margin-left: 370px;
+    margin-right: 370px;
+   font-style: italic;
+   font-variant: normal;
+    
+}
+cite{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    display: block;
+    line-height:24px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    font-weight: 400;
+}
+#div{
+    background-color: #8a0707;
+    padding-top: 30px;
+    border-radius: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+#img{
+    
+    background-image: url(../images/1.jpg);
+    background-color: #f33737;
+    background-blend-mode: multiply;
+        /* background-image: radial-gradient(rgb(63, 3, 3));
+    opacity: 0.3;  */
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 2px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15px;
+  /* padding-left: 100px; */
+  padding-top: 2.5mm;
+  
+  
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 700;
+}
+#eulogy{
+    color: #c7c2c2;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+figcaption{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+#reference{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 28px;
+}
+footer{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: center;  
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+a{
+    color: rgb(38, 117, 182);
+}
